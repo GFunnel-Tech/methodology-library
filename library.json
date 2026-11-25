@@ -1,0 +1,20 @@
+{
+  "type": "library",
+  "repo": "GFunnel-Tech/methodology-library",
+  "canon": {
+    "repo": "GFunnel-Tech/methodology",
+    "version": "v5.4",
+    "commit": "cc847d0d684fd5a318ca41ef1f24907cea54d18f"
+  },
+  "visibility": "private",
+  "domains": [
+    {
+      "slug": "business",
+      "path": "domains/business",
+      "canon_domain": "7 Economic / Market"
+    }
+  ],
+  "prefixes": {
+    "ED": "business/eric-deeran"
+  }
+}

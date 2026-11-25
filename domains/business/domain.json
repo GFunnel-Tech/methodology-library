@@ -1,0 +1,26 @@
+{
+  "type": "domain",
+  "slug": "business",
+  "canon_domain": "7 Economic / Market",
+  "facet": {
+    "name": "departments",
+    "values": [
+      "strategy",
+      "marketing",
+      "sales",
+      "operations",
+      "finance",
+      "hr",
+      "technology",
+      "client_success",
+      "content"
+    ]
+  },
+  "people": [
+    {
+      "slug": "eric-deeran",
+      "prefix": "ED",
+      "path": "people/eric-deeran"
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 # AGENTS.md — rules for working in this repository
 
-Load the canon first (`GFunnel-Tech/methodology`, its `AGENTS.md`), then this repo for the domain playbook.
+Load the canon first (`GFunnel-Tech/methodology`, its `AGENTS.md`), then `library.json`, then the domain you need (`domains/<domain>/domain.json`). See `README.md` for the naming rules.
 
 1. **Methods, never copies.** Describe what he does and why, in our words. Never paste
    course text, scripts, slides or transcripts into a committed file. A short quote (one
@@ -15,7 +15,7 @@ Load the canon first (`GFunnel-Tech/methodology`, its `AGENTS.md`), then this re
    with `stated by S-##`, a range, and what would falsify them. Never restate them as fact.
 5. **Hold open what is not known.** Add it to `registers/held-open.md` with the
    measurement that would close it. Do not fill a gap to make a page read as finished.
-6. **Header and naming.** Every algorithm and pattern opens with a header: `id` (person prefix + number), `person` (folder slug), `departments` (from the nine in `methodology.json`), `source` (`stated` or `derived`). After any change run `python3 tools/build_index.py`; `--check` must pass. A new person gets a folder `people/firstname-lastname/`, a unique two-letter prefix, a `methodology.json`, and an entry in the root `methodology.json`.
+6. **Header and naming.** Every algorithm and pattern opens with a header: `id` (person prefix + number), `person` (folder slug), the domain's facet (for business, `departments` from the nine in `domains/business/domain.json`), `source` (`stated` or `derived`). After any change run `python3 tools/build_index.py`; `--check` must pass. A new person gets a folder `domains/<domain>/people/firstname-lastname/`, a two-letter prefix unique across the library (`library.json` → `prefixes`), a `methodology.json`, and an entry in `domain.json`.
 7. **Algorithm file shape:** purpose · when to use · inputs · steps (numbered, in his
    order) · decision points · outputs · his stated benchmarks (tagged) · sources ·
    open edges · canon map.
