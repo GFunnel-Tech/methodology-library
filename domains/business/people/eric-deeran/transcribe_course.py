@@ -24,6 +24,15 @@ for sp in site.getsitepackages() + [site.getusersitepackages()]:
         os.add_dll_directory(d)
 from faster_whisper import WhisperModel
 
+# faster-whisper 1.2 passes metadata_errors= to av.open(); PyAV 15+ removed that option.
+# Drop it so newer PyAV can be used without building an old version from source.
+import av
+_av_open = av.open
+def _av_open_compat(*args, **kwargs):
+    kwargs.pop('metadata_errors', None)
+    return _av_open(*args, **kwargs)
+av.open = _av_open_compat
+
 rows = list(csv.DictReader(open(MANIFEST, encoding='utf-8-sig'), delimiter='\t'))
 items = []
 for n, r in enumerate(rows, 1):
