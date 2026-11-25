@@ -1,4 +1,11 @@
-# P-01 — Offer & pricing moves (repeated across his teardowns)
+---
+id: ED-P01
+person: eric-deeran
+departments: [strategy, sales]
+source: derived
+---
+
+# ED-P01 — Offer & pricing moves (repeated across his teardowns)
 
 `source: derived` — he does not name these as a list. Each is a move that recurs in the
 17 written teardowns (S-05). Client outcome figures there are his marketing claims

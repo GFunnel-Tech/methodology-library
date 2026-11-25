@@ -1,34 +1,36 @@
-# Eric Deeran Methodology — research repository (PRIVATE)
+# methodology-business (PRIVATE)
 
-R&D into how Eric Deeran (Deeran Films; the **Master Filmmaker** program, ericdeeran.co)
-builds, sells and runs high-ticket service businesses, written down as numbered,
-testable algorithms in the GFunnel knowledge shape.
+Researched business methodologies, organised **domain → person → department**, and mapped
+to the GFunnel canon (`GFunnel-Tech/methodology`, canon domain 7 Economic / Market).
 
-**What this is:** the *methods and strategies*, restated in our own words, each traced
-to the source it came from. **What this is not:** a copy of his course material. Course
-text, slides, scripts and videos are copyrighted and are never pasted in; we cite them
-by module and timestamp and describe the method.
-
-Credit: methods researched from Eric Deeran / Deeran Films LLC. Their own framing is kept
-separate from our derivations (each file says which is which). Structure follows the
-GFunnel Methodology (Cameron Garlick, CC BY 4.0).
+The canon is GFunnel's own framework (public, CC BY 4.0). This repo holds **other people's
+methods**, restated in our own words and credited, so it is kept separate and private. A
+method that is tested and holds up can be proposed into the canon through the canon's
+contribution process, with credit to its source.
 
 ## Layout
 
 | Path | Holds |
 | --- | --- |
-| `AGENTS.md` | how an AI (or a person) must work in this repo |
-| `sources/register.md` | every source: what it is, when captured, what was taken from it |
-| `sources/catalogue/` | raw catalogues (e.g. the 206 long-form YouTube videos) |
-| `algorithms/ED-##-*.md` | his named systems, as step-by-step algorithms |
-| `patterns/` | repeated moves seen across his material that he does not name |
-| `formulas/` | runnable versions of his calculators |
-| `registers/held-open.md` | what is not yet known, and what would settle it |
-| `registers/canon-map.md` | where each piece meets the GFunnel Methodology |
-| `containers/` | knowledge containers once an item is fully solved |
+| `methodology.json` | what this repo is, which canon commit it maps to, who is in it |
+| `AGENTS.md` | the rules every person and AI follows here |
+| `people/<firstname-lastname>/` | one person's whole system: profile, algorithms, patterns, formulas, sources, registers |
+| `departments/<dept>/README.md` | **generated** index of every algorithm touching that department, across people |
+| `compare/` | the same problem solved by different people (once there are two) |
+| `tools/build_index.py` | rebuilds the department indexes; `--check` fails if they are stale |
 
-## Status
+## Naming
 
-Phase 1 (public website) done 2026-11-25. Phase 2 (YouTube, 206 long-form videos, about
-27.6 hours) and Phase 3 (paid course) are waiting on transcripts — see
-`registers/held-open.md` H-1.
+- Person folder: `firstname-lastname`, lowercase, hyphens.
+- Each person has a unique two-letter prefix, recorded in their `methodology.json` and the
+  root one. Algorithm IDs: `<PREFIX>-##`; patterns we infer: `<PREFIX>-P##`.
+- Departments are the nine the platform uses: strategy, marketing, sales, operations,
+  finance, hr, technology, client_success, content.
+- Every algorithm and pattern opens with a header (`id`, `person`, `departments`,
+  `source: stated|derived`). The indexes are built from it.
+
+## People
+
+| Person | Prefix | Status |
+| --- | --- | --- |
+| [Eric Deeran](people/eric-deeran/profile.md) | ED | public site done; YouTube and course pending |

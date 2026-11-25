@@ -4,7 +4,7 @@
 # Output: transcripts/<video id>.en.vtt and transcripts/<id>.txt (plain text).
 # Transcripts are research notes: they stay out of git (see .gitignore).
 set -euo pipefail
-cd "$(dirname "$0")/.."
+cd "$(dirname "$0")"
 mkdir -p transcripts
 SRC=(
   "https://www.youtube.com/playlist?list=PLfs3ASv4Xy7REIx_g0dRx8fVhdQReNxuC"  # free course first

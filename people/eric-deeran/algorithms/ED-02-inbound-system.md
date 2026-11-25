@@ -1,3 +1,10 @@
+---
+id: ED-02
+person: eric-deeran
+departments: [marketing, sales, technology]
+source: stated
+---
+
 # ED-02 — The Inbound System (ad → qualified booked call → client)
 
 `source: stated` (S-02, S-03). He describes it as the installation program clients
@@ -8,7 +15,7 @@ A repeatable, paid, inbound acquisition funnel that puts qualified prospects on 
 call and improves its own targeting over time.
 
 ## Inputs
-An offer worth a high-ticket price (P-01), an ad account, a CRM/calendar, an AI-driven
+An offer worth a high-ticket price (ED-P01), an ad account, a CRM/calendar, an AI-driven
 form and an email + SMS sender.
 
 ## Steps (his order, S-02)

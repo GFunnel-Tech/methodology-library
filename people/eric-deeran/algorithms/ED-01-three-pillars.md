@@ -1,3 +1,10 @@
+---
+id: ED-01
+person: eric-deeran
+departments: [strategy, marketing, sales, operations]
+source: stated
+---
+
 # ED-01 — The 3 Pillars (Marketing · Sales · Fulfillment)
 
 `source: stated` (S-01) unless marked.
@@ -23,7 +30,7 @@ First diagnostic on any client: which pillar is the constraint right now?
 2. Fix the offer and pricing before driving traffic (positioning sits *inside* Marketing,
    but in several teardowns the repricing alone closed deals with no ads — S-05 Tori, Harp, Owl House).
 3. Install acquisition (ED-02 Inbound System).
-4. Install the sales process (closing call, proposal in options — P-01).
+4. Install the sales process (closing call, proposal in options — ED-P01).
 5. Systemize delivery and hire so the founder leaves the call and the work (S-05 Algonquin, Giard).
 
 ## Open edges

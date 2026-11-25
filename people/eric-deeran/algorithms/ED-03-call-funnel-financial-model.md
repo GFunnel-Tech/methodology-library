@@ -1,3 +1,10 @@
+---
+id: ED-03
+person: eric-deeran
+departments: [finance, marketing, sales]
+source: stated
+---
+
 # ED-03 — Call-Funnel Financial Model
 
 `source: stated` (S-06, an interactive calculator). Runnable: `formulas/call_funnel.py`.
