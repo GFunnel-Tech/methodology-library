@@ -1,7 +1,7 @@
 # Eric Deeran — profile
 
-**Prefix:** `ED` · **Status:** phase 1 (public site) done 2026-11-25 · **Departments:** strategy,
-marketing, sales, operations, finance, technology (fulfillment content still thin).
+**Prefix:** `ED` · **Status:** phase 1 (public site) done; phase 3 written course material read 2026-11-25 ·
+**Departments:** strategy, marketing, sales, operations, finance, technology, hr, client_success.
 
 ## Who (as his own site states it — S-01, S-03)
 Atlanta, GA. Founded **Deeran Films** (marketing / video agency, est. 2015; clients such as
@@ -29,8 +29,19 @@ community. No prices published; entry is "Schedule Demo" → apply.masterfilmmak
 | ED-01 | The 3 Pillars (Marketing · Sales · Fulfillment) | strategy, marketing, sales, operations |
 | ED-02 | The Inbound System | marketing, sales, technology |
 | ED-03 | Call-Funnel Financial Model | finance, marketing, sales |
+| ED-04 | Fast-cash plays (reactivation · Ghost Proposal · free video) | sales, marketing |
+| ED-05 | Niche and offer build | strategy, sales |
+| ED-06 | Organic direct-message outreach | marketing, sales |
+| ED-07 | Booking form, triage call, show rate, pillar pitch | sales |
+| ED-08 | Ad and VSL structure, opt-in friction, funnel KPIs | marketing, technology |
+| ED-09 | SMS compliance (A2P, opt-in, policies) | technology, operations |
+| ED-10 | Client retention and back-end offers | client_success, operations |
+| ED-11 | Sales team operating system | hr, sales, operations |
+| ED-12 | Creative team hiring | hr, operations |
+| ED-13 | Finance controls (P&L ratios, payroll) | finance, operations |
 | ED-P01 | Offer & pricing moves (our pattern, not his list) | strategy, sales |
 
 Sources: `sources/register.md` · Open questions: `registers/held-open.md` ·
-Canon map: `registers/canon-map.md` · Transcripts: run `pull_transcripts.sh` from a home
+Canon map: `registers/canon-map.md` · Course outline: `sources/catalogue/course-outline.tsv` ·
+Transcripts: run `pull_transcripts.sh` from a home
 connection (YouTube blocks cloud servers).

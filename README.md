@@ -48,4 +48,4 @@ domains/<domain>/
 
 | Domain | Person | Prefix | Status |
 | --- | --- | --- | --- |
-| business | [Eric Deeran](domains/business/people/eric-deeran/profile.md) | ED | public site done; YouTube and course pending |
+| business | [Eric Deeran](domains/business/people/eric-deeran/profile.md) | ED | public site and written course material done (13 methods); YouTube transcripts and course videos pending |

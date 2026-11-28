@@ -1,3 +1,3 @@
-people/*/transcripts/
+**/transcripts/
 __pycache__/
 *.vtt
