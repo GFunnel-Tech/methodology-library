@@ -41,6 +41,19 @@ form and an email + SMS sender.
 - **Signal loop:** qualified-lead data is sent back to the ad platform (conversion
   signal), so the platform finds more people like them the longer it runs.
 
+## Supporting channels (S-14)
+`source: stated` unless marked.
+- **Organic content as the legitimacy check** (S-14 · lesson 208 "How An Organic Content Funnel
+  Works"): people who see an ad visit the advertiser's profile before booking; a profile full
+  of proof and teaching (ED-24) re-educates them and sends them back to book. He says it can
+  also generate leads on its own.
+- **LinkedIn as a bolt-on** (S-14 · lesson 59 "Overview"): one-to-one outreach (ED-23) runs
+  beside the paid funnel and can send prospects to the same VSL.
+- **Outbound so you are not waiting on ads** (S-14 · lesson 43): ED-06 / ED-25.
+- `source: derived`: all three feed the same calendar and CRM as the ad, so the funnel's
+  qualified-lead signal and its benchmarks below are only comparable across channels if each
+  lead carries its channel at capture.
+
 ## His stated benchmarks (S-06)
 | Metric | Stated | Tag |
 | --- | --- | --- |
@@ -53,6 +66,10 @@ form and an email + SMS sender.
 - The form's actual qualifying questions and thresholds (H-4).
 - What the closing call script is step by step (expected in S-08/S-10; H-5).
 - Which offer the ad and thank-you video lead with (H-6).
+
+## Sources
+S-02, S-03, S-06. S-14 · lessons 43 "30,000ft View Of Prospecting Outbound", 59 "Overview"
+(LinkedIn), 208 "How An Organic Content Funnel Works".
 
 ## Canon map
 Very close to GFunnel's own Lead System funnel (`platform: /industry/insurance/lead-system`,
