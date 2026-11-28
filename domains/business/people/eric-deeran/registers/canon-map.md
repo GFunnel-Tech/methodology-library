@@ -4,7 +4,7 @@
 
 | His piece | GFunnel canon | Relation |
 | --- | --- | --- |
-| 3 Pillars (ED-01) | ACE (Acquisition · Conversion · Expansion); Fulfillment sectors | Same three-stage shape; his Fulfillment ≈ delivery, ACE's E ≈ growth of the client. Check whether ACE's E covers delivery or only expansion. |
+| 3 Pillars (ED-01) | ACE (Acquisition · Creation · Expansion; canon v5.1 Layer VII, where Creation is the seven-step conversion script); Fulfillment sectors | Same three-stage shape; his Fulfillment ≈ delivery, ACE's E ≈ growth of the client. Check whether ACE's E covers delivery or only expansion. |
 | Inbound System (ED-02) | ACE A→C; platform Lead System funnel + AI appointment setting | Near-identical funnel; his adds the signal loop back to the ad platform explicitly. |
 | Financial Model (ED-03) | Estimate Protocol; Forecasting Algorithm | His benchmarks become tagged priors with ranges; ours adds falsifiers and delivery cost. |
 | Offer moves (ED-P01) | Offer / pricing algorithms in v5.1 Operational Section | To map move by move once S-10 is read. |
@@ -12,11 +12,21 @@
 | Fast-cash plays (ED-04) | ACE Acquisition at zero spend | Reactivation = ED-P01 move 7 as a taught step; Ghost Proposal's Problem → Cost → Pitch-call ≈ pain, its price, the ask. |
 | Niche and offer build (ED-05) | Offer construction (v5.1 Operational); ICP selection | Four niche tests = a market screen; three tiers by term confirms ED-P01 moves 2–3. |
 | Organic DM outreach (ED-06) | ACE Acquisition (organic) | Referral-first indirect ask; free work buys the proof ads need later. |
-| Triage and sales call (ED-07) | ACE Conversion; diagnose before prescribe | A qualification gate before the costly call. |
+| Triage and sales call (ED-07) | ACE Creation (the seven-step script); diagnose before prescribe | A qualification gate before the costly call. |
 | Ads, VSL and funnel KPIs (ED-08) | Estimate Protocol; Lead System reporting | Targets become tagged priors; three conflict with his public calculator (H-12). |
 | SMS compliance (ED-09) | Operations / compliance | Same requirements as the platform's SMS setup. |
 | Client retention (ED-10) | ACE Expansion | Time to first value ≈ delivery health; back-end offers = the Expansion ladder. ACE's E does cover delivery here, answering the ED-01 question in part. |
 | Sales team OS (ED-11) | Operations, HR; ED-03 reversed | Forecast is the call-funnel arithmetic solved for a target. |
 | Creative hiring (ED-12) | Fulfillment, HR | Fills ED-01 pillar 3. |
 | Finance controls (ED-13) | Forecasting; Estimate Protocol | Ratio targets as tagged priors. |
-
+| Objection handling (ED-14) | ACE Creation; I.A.C.E. | His clarify → discuss → diffuse ≈ Isolate/Clarify → Acknowledge → Eliminate; ours adds "escalate honestly". |
+| Commitment and rescue plays (ED-15) | ACE Creation (Close) | Kept only where the prospect would still agree after seeing how the device works; ghost texting and the guilt lever fail that test (H-15). |
+| Meta ads build, test, decide (ED-16) | ACE Acquisition: ROI per channel, reallocate | His stage-by-stage decision tree is the canon's "fix the lowest-converting step first". |
+| VSL and ad scripting (ED-17) | ACE Acquisition → Creation; Brand and Identity | Lead magnet by buyer stage ≈ the gradient from current to promised state. |
+| CRM build, pipeline, tracking (ED-18) | ACE Database step; automate first response | Two pipelines and the daily sheet = document at capture, measure each step. |
+| Client onboarding and journey (ED-19) | Client Onboarding Algorithm | Matches capture → organize → build → first result; lacks the canon's 48-hour blueprint and quarterly re-immersion. |
+| AI booking bot and call automations (ED-20) | ACE Acquisition: automate first response | The bot is the backstop; a human first (ED-18). |
+| Time audit and hiring sequence (ED-21) | Time Management; Hiring Algorithm | "Hire only to remove a named bottleneck" ≈ the hire's structural purpose. |
+| First 30 days roadmap (ED-22) | Habit Formation; Skill Acquisition | Board items marked done on the day = documented repetitions. |
+| LinkedIn outreach (ED-23), prospect lists (ED-25) | ACE Acquisition | Warm list first; tag the source at capture (H-41). |
+| Organic content funnel (ED-24) | ACE Acquisition; Brand and Identity | Same profile everywhere = correspondence across touchpoints; the two-step post = a gradient offer. |

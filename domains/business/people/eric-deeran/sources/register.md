@@ -15,7 +15,7 @@
 | S-11 | Trustpilot: masterfilmmaker.com | reviews | — | not read | outside view of delivery |
 | S-12 | Paid course outline: "Agency Scaling Training Portal" (Kajabi), 24 sections, 350 lessons | course structure | 2026-11-25 | read (titles only) | `catalogue/course-outline.tsv` |
 | S-13 | Paid course written materials: 38 Google Docs/Sheets linked from 41 lessons | course documents | 2026-11-25 | **read in full** | ED-04 … ED-13 |
-| S-14 | Paid course videos: 340 lessons on Wistia | video | 2026-11-25 | **no captions; not transcribed** | H-11 |
+| S-14 | Paid course videos: 340 lessons on Wistia | video | 2026-11-28 | **read**: transcribed locally (Whisper large-v3-turbo); 339 of 340 (lesson 256 is a silent example; lesson 344 duplicates 343, H-26) | ED-01 … ED-25 |
 
 Notes on S-02: the page is an interactive flow diagram; the step list and descriptions
 were read from the rendered page text.
@@ -24,3 +24,10 @@ Notes on S-12/S-13: read from the account owner's course access. Cited as `S-13 
 title>"`. Nothing from them is copied into this repo; the lesson list keeps titles only, with
 students' names removed. Two files in the course open as Drive uploads (.xlsx/.docx), the
 rest as Google Docs/Sheets.
+
+Notes on S-14: transcribed on the account owner's computer for research; the transcripts
+are kept outside this repo and never committed. Cited as `S-14 · lesson <n> "<title>"`,
+where `<n>` is the **transcript number** (the order the videos were transcribed: objections
+and the closing call first, the Facebook ads course last). It is not the `n` in
+`catalogue/course-outline.tsv` (S-12), which follows the course's own order. Two lesson
+titles name students (lessons 91, 94 and 57); those are cited by number only.

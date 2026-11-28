@@ -39,7 +39,7 @@ testimonials, your guarantee, competitors' running ads, a camera or phone.
 
    He uses all three together. His picture of a market: about 3% ready to buy now, 17%
    gathering information, 20% aware of the problem but not yet looking, 60% not yet aware
-   `[tag: assumption] stated by S-14; source of the split not given (H-ED17-1)`. Nurture
+   `[tag: assumption] stated by S-14; source of the split not given (H-27)`. Nurture
    length grows with distance from buying: short for information-gatherers, about 2–4
    months for the problem-aware, about 4–6 months for the unaware `[tag: assumption] stated
    by S-14`. His school's default is to go for the bottom of the funnel first, because it
@@ -171,7 +171,7 @@ testimonials, your guarantee, competitors' running ads, a camera or phone.
     Turn each script into a video, an image and a carousel; in images, a direct question to
     the business owner with a red arrow or circle stops the scroll. Since the 2025 change,
     many genuinely different creatives beat many hook-swaps of one video `[tag: conflict]`
-    with lesson 168's "swap the hook first" (H-ED16-1).
+    with lesson 168's "swap the hook first" (H-21).
 
 15. **Expect the ad to matter more than the VSL** (S-14 · lesson 227): his own VSL failed on
     the first test and worked on the second with the same VSL and new ads — how the ad
@@ -206,9 +206,9 @@ S-14 lessons 165–202 (all read), 176, 232, 239–247, 310, 327–331, 343, 345
 the member examples are reels of creative, read for structure only.
 
 ## Open edges
-- The 3/17/20/60 split has no stated source (H-ED17-1).
+- The 3/17/20/60 split has no stated source (H-27).
 - Placement sizes and the 2025 "creative diversity" rule are Meta-specific and date fast
-  (H-ED16-2).
+  (H-22).
 - **Risky plays in the examples — do not copy into our course:** the "work for free until
   it works" guarantee (H-15); unsourced statistics presented as fact (one member VSL quotes
   survey percentages on humour in advertising with no source; lesson 328 opens on an

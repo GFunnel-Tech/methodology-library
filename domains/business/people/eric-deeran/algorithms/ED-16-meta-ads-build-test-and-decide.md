@@ -18,7 +18,7 @@ lessons (306–346) date from roughly 2020–2022 (they mention COVID store traf
 conflict, this file gives the 2025 method as the main path and the older one as the
 alternative, and marks the conflict. Both describe Meta's interface, which changes often:
 **every setting below is `[tag: held-open]` for re-checking against the live Ads Manager
-before it is taught** (H-ED16-2).
+before it is taught** (H-22).
 
 ## Purpose
 Get a paid lead-generation campaign running on Meta (Facebook and Instagram) for your own
@@ -92,7 +92,7 @@ control, a payment card, and 2–3 finished creatives.
      227); 50/week in lesson 325; [tag: held-open] Meta's current figure`.
    - *Older alternative (lessons 312, 314, 316, 333):* start at $10 a day, never higher, and
      scale only what wins — `[tag: conflict]` with the 2025 floor of $15–20 and preferred
-     $50–100 (H-ED16-1).
+     $50–100 (H-21).
 
 4. **Build the campaign — the 2025 method** (S-14 · lesson 233 "Setting Up Your Facebook Ad";
    lesson 173 "Ad Creative Diversity Overview (Major Update 2025)").
@@ -221,7 +221,7 @@ system: treat as priors, not targets.
 
 | Metric | Stated | Lesson | Tag |
 | --- | --- | --- | --- |
-| His own ad spend | $1.6M "of my own money" / "upwards of $800,000 of my own money, not including clients" | 165 / 226 | `[tag: conflict]` H-ED16-3 |
+| His own ad spend | $1.6M "of my own money" / "upwards of $800,000 of my own money, not including clients" | 165 / 226 | `[tag: conflict]` H-23 |
 | Acceptable cost per lead (high-ticket B2B) | up to $70–100 (packages over ~$10k); "$50 is very standard for B2B" | 226, 227 | assumption |
 | Cost per lead warning sign | $20–30 (older lessons) | 338 | `[tag: conflict]` with the row above |
 | Decision-tree limits | CPC < $5; CTR > 1%; CPL < $60–70 (< $40 good); cost per booked call < $300 | 237 | assumption |
@@ -235,16 +235,16 @@ system: treat as priors, not targets.
 
 ## Sources
 S-14 lessons 165, 225–248, 306–346 (all read). Lesson 344 ("Solar Company Part 2") carries
-the same transcript as lesson 343; part 2 itself was not captured (H-ED16-6). Lesson 324 is
+the same transcript as lesson 343; part 2 itself was not captured (H-26). Lesson 324 is
 mostly unrelated conversation; its only method content is uploading a scraped list to build
 a lookalike. Related: S-13 (ED-08), S-02 (ED-02).
 
 ## Open edges
 - **Which generation is current** for objective, targeting, budget floor and structure
-  (H-ED16-1). Until answered, teach the 2025 path and show the older one as history.
+  (H-21). Until answered, teach the 2025 path and show the older one as history.
 - **Interface drift:** names and options (business portfolio, datasets, higher-intent forms,
   Advantage+ audience, campaign score, conversion leads) are Meta's and change; recheck
-  before any lesson is recorded (H-ED16-2).
+  before any lesson is recorded (H-22).
 - **Risky plays as taught — do not adopt as-is (extends H-15):**
   - *Special ad categories.* He correctly says credit, employment, housing and social/
     political ads must be declared, and advises avoiding those clients (lesson 312). But his

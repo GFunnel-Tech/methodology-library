@@ -76,7 +76,7 @@ the ad account and CRM.
    opt-ins → the page; unqualified leads → friction (step 3); qualified but unsold → sales
    (ED-07). Full tree in ED-16 step 7.
 
-## His stated targets (all `[tag: assumption] stated by S-13`; falsifier: our own campaigns, ≥3 niches)
+## His stated targets (all `[tag: assumption] stated by S-13`, or by S-14 where a row says so; falsifier: our own campaigns, ≥3 niches)
 | Block | Metric | Target |
 | --- | --- | --- |
 | Ads | CPM | $30–60 |
@@ -117,7 +117,7 @@ S-14 lessons 165–202 and 225–248 (all read), and 310, 338, 343 of the Facebo
   193); their prompts were not examined; he says they produce a 70–80% draft
   `[tag: assumption] stated by S-14`.
 - Many S-14 targets come from Meta campaigns of different years; the interface and the
-  optimiser change, so recheck before teaching (H-ED16-1, H-ED16-2).
+  optimiser change, so recheck before teaching (H-21, H-22).
 
 ## Canon map
 ACE Acquisition measurement — *track ROI per channel* (the weekly sheet, now with
